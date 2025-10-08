@@ -33,6 +33,7 @@ Some tracts with high license rates are not the same as those with the highest t
 A few neighborhoods have exceptionally high rates, suggesting dense clusters of licensed businesses relative to their population size.
 Scatter plots show no strict linear relationship between total license count and per-capita rate, indicating diverse neighborhood patterns.
 
+
 📝 Conclusions
 
 Analyzing alcohol availability by both raw count and population-adjusted rate gives a more complete picture of neighborhood-level alcohol access. These insights could support local planning, health research, and policy decisions regarding alcohol licensing and zoning.
